@@ -1,0 +1,358 @@
+Here's the revised YAML file with professional experiences, subdividing activities within each company into projects where needed:
+
+```yaml
+- time_period: 2019 - present
+  company: Swiss Re
+  my_role: Product Owner and Data Modeling Lead
+  projects:
+    - project: Data Tool Development
+      description: >
+        Development lead of a data tool aiming to bridge the Treaty information gap by developing a data-driven methodology to automatically enrich treaty portfolio with company information.
+      skills:
+        soft_skills:
+          - Project Management
+          - Data Modeling
+        technical_skills:
+          tools:
+            - Scrum
+            - Agile
+          programming_languages:
+            - Not specified
+    - project: Life Coaching
+      description: >
+        Certified life coach from the EDEC coaching school; team coaching training at Swiss Re; Committee member of CoachingOne since January 2020.
+      skills:
+        soft_skills:
+          - Life Coaching
+          - Team Coaching
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+            - Not specified
+    - project: Agile Coaching
+      description: >
+        Proficiently organize and facilitate daily scrum, sprint reviews, retrospectives, sprint and release planning.
+      skills:
+        soft_skills:
+          - Agile Coaching
+        technical_skills:
+          tools:
+            - Scrum
+            - Agile
+          programming_languages:
+            - Not specified
+
+- time_period: 2013 - 2019
+  company: Swiss Re
+  my_role: Senior Data Scientist
+  projects:
+    - project: Risk Modeling
+      description: >
+        Extension of the Liability Catastroph model to Unlimited Liability Catastrophe; scenario microscope development.
+      skills:
+        soft_skills:
+          - Risk Modeling
+        technical_skills:
+          tools:
+            - R
+            - OracleDB
+            - MS BI
+          programming_languages:
+            - R
+    - project: Data Science and Analytics
+      description: >
+        Development lead of Big-T, a smart analytic tool; developing a Scout VBA Excel client; development of NLP machine learning approaches for industry classification.
+      skills:
+        soft_skills:
+          - Data Science
+          - Data Analytics
+        technical_skills:
+          tools:
+            - Python
+            - Azure Cloud Infrastructure
+            - MongoDB
+            - Amazon S3
+            - Docker
+          programming_languages:
+            - Python
+            - VBA
+    - project: Data Visualization
+      description: >
+        Development lead of new visualizations to improve transparency and support smart underwriting.
+      skills:
+        soft_skills:
+          - Data Visualization
+        technical_skills:
+          tools:
+            - JavaScript D3
+            - Tableau
+            - Shiny
+            - MS BI
+          programming_languages:
+            - JavaScript
+    - project: Data Innovation
+      description: >
+        Foundation and lead of the GU HacktionLab, an innovation platform for rapid-prototyping.
+      skills:
+        soft_skills:
+          - Innovation
+          - Project Management
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+            - Not specified
+    - project: Digital Strategy
+      description: >
+        Member of the Data Catalog working group and Peril and Scenarios working groups.
+      skills:
+        soft_skills:
+          - Digital Strategy
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+            - Not specified
+    - project: Software Development
+      description: >
+        Development lead of 2 frontend applications and 3 visualization modules integrated in the LRD Treaty costing tool.
+      skills:
+        soft_skills:
+          - Software Development
+        technical_skills:
+          tools:
+            - Git
+            - SVN
+            - Java
+            - Confluence
+          programming_languages:
+            - Java
+
+- time_period: 2010 - 2016
+  company: Swiss Open Data Initiative
+  my_role: Founding Board Member
+  projects:
+    - project: Open Government Data
+      description: >
+        Kickstarting Open Government Data in Switzerland by building a community of ideators, designers, and developers.
+      skills:
+        soft_skills:
+          - Leadership
+          - Community Building
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+            - Not specified
+    - project: Political Lobbying
+      description: >
+        Political lobbying to bring more transparency to democracy.
+      skills:
+        soft_skills:
+          - Political Lobbying
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+            - Not specified
+    - project: Community Building
+      description: >
+        Running hackathons & supporting grassroots data mining projects.
+      skills:
+        soft_skills:
+          - Community Building
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+            - Not specified
+
+- time_period: 2005 - 2013
+  company: innoQ
+  my_role: Senior Consultant in Software Engineering and Data Integration
+  projects:
+    - project: Information System for Chemical Safety
+      description: >
+        Development of a Domain Specific Language (DSL) for the configuration of fact data. Data modeling with a focus on substance identity. Validation and integration of chemical structure management tools.
+      skills:
+        soft_skills:
+          - Requirements Analysis
+          - Conceptual Design
+        technical_skills:
+          tools:
+            - UML
+            - MagicDraw
+            - Eclipse Xtext
+            - EMF
+            - Java
+            - Oracle
+            - JChemPaint
+            - OrChem
+            - Bingo
+          programming_languages:
+            - Java
+    - project: Grid and Virtualization Technology
+      description: >
+        Implementation of a grid and virtualization technology prototype in bioinformatics.
+      skills:
+        soft_skills:
+          - Prototyping
+        technical_skills:
+          tools:
+            - GigaSpaces
+          programming_languages:
+            - Not specified
+    - project: Strategic Project at a Major Bank
+      description: >
+        Requirements analysis and design of a code generator for a strategic project at a major bank.
+      skills:
+        soft_skills:
+          - Requirements Analysis
+          - Conceptual Design
+        technical_skills:
+          tools:
+            - Rational Software Modeler
+            - WebLogic
+            - Eclipse
+            - EMF
+          programming_languages:
+            - Java
+            - PL1
+            - CORBA
+    - project: DSL for Software Architectures
+      description: >
+        Feasibility analysis and development of a Domain Specific Language (DSL) for software architectures.
+      skills:
+        soft_skills:
+          - Conceptual Design
+          - Feasibility Analysis
+        technical_skills:
+          tools:
+            - EMF
+            - Eclipse
+          programming_languages:
+            - Not specified
+    - project: B2B Platform Prototype
+      description: >
+        Development of a B2B platform prototype in the field of language translation.
+      skills:
+        soft_skills:
+          - Conceptual Design
+          - Prototyping
+        technical_skills:
+          tools:
+            - Ruby on Rails
+            - NetBeans
+            - MySQL
+          programming_languages:
+            - Ruby
+    - project: Product Analysis of SOA Repositories
+      description: >
+        Product analysis of SOA repositories including criteria establishment and testing.
+      skills:
+        soft_skills:
+          - Product Analysis
+        technical_skills:
+          tools:
+            - Systinet 2 Repository
+            - CrossVision CentraSite Repository
+            - AquaLogic Enterprise Repository
+            - Mule Galaxy
+            - WSO2 Repository
+            - IONA Artix Registry/Repository
+            - TIBCO ActivMatrix Repository
+          programming_languages:
+            - Not specified
+    - project: Service Lifecycle and Quality Management
+      description: >
+        Conceptual design and implementation of service lifecycle, evolution, and quality management in a service repository.
+      skills:
+        soft_skills:
+          - Service Management
+        technical_skills:
+          tools:
+            - CentraSite Repository
+            - Eclipse
+            - EMF/JET
+          programming_languages:
+            - Not specified
+    - project: Model-Driven Modernization
+      description: >
+        Model-driven modernization of terminal-based applications for a major Swiss bank.
+      skills:
+        soft_skills:
+          - Architecture Design
+        technical_skills:
+          tools:
+            - J2EE (IBM WebSphere)
+            - Oracle
+            - Eclipse
+          programming_languages:
+            - Java
+
+- time_period: 2003 - 2005
+  company: IBM Research Division - Zurich Research Laboratory
+  my_role: Post-doctoral Researcher
+  projects:
+    - project: Comparative Protein Modeling
+      description: >
+        Design and implementation of a Python module for scoring functions used in comparative protein modeling.
+      skills:
+        soft_skills:
+          - Research
+          - Bioinformatics
+        technical_skills:
+          tools:
+            - GROMOS
+          programming_languages:
+            - Python
+            - Java
+
+- time_period: 2000 - 2003
+  company: CNRS - Louis Pasteur University
+  my_role: PhD Researcher and Unix System Administrator
+  projects:
+    - project: GPCRgen Development
+      description: >
+        Object-oriented design and implementation of GPCRgen, a Java library for large-scale protein modeling.
+      skills:
+        soft_skills:
+          - Research
+        technical_skills:
+          tools:
+            - Amber
+            - FlexX
+            - Dock
+          programming_languages:
+            - Java
+    - project: T-cell Epitope Prediction
+      description: >
+        Design and implementation of Perl programs for T-cell epitope prediction.
+      skills:
+        soft_skills:
+          - Research
+        technical_skills:
+          tools:
+            - Not specified
+          programming_languages:
+
+
+            - Perl
+    - project: Unix System Administration
+      description: >
+        Unix system administration, web development, and server management.
+      skills:
+        soft_skills:
+          - System Administration
+        technical_skills:
+          tools:
+            - SGI Unix (Irix)
+            - Debian Linux
+            - Apache
+            - MySQL
+          programming_languages:
+            - PHP
+```
+
+This structure organizes your professional experiences by company, subdividing activities into projects where necessary.
